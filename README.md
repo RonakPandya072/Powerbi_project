@@ -1,3 +1,3 @@
-# Powerbi_project
+#  Sales Data Analysis using Powerbi
 sales data dashbord creation using powerbi
-Follow the link for dashbord: https://app.powerbi.com/groups/me/reports/cb1bdf8b-db7c-4716-bf93-e68b45b7fabf/ReportSection
+The main purpose of the project is to unlock sales insights that are not visible before to the sales team for decision support and automate them to reduce manual time spent in data gathering. An aims grid is designed to define the problem and define a strategy to tackle the problem. Steps include data discovery, data cleaning, data merging, and generating powerful dashboards. As an end result an automated dashboard is created which provides quick and latest sales insights in order to support data-driven decision making. For dashboard link: https://app.powerbi.com/groups/me/reports/cb1bdf8b-db7c-4716-bf93-e68b45b7fabf/ReportSection
